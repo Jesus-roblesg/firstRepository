@@ -1,2 +1,2 @@
 # firstRepository
-Primer Repositorio con propósito educativo (Hola mundo en lenguaje C)
+Primer Repositorio con propósito educativo (Hola mundo en lenguaje Go)
